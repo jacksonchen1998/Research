@@ -18,4 +18,4 @@ GPT-2
 
 ## Information
 
-- [Ubuntu with Postgresql](https://ubuntu.com/server/docs/databases-postgresql))
+- [Ubuntu with Postgresql](https://ubuntu.com/server/docs/databases-postgresql)

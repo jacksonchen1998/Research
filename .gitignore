@@ -1,0 +1,5 @@
+# Ignore tar.gz file
+empatheticdialogues.tar.gz
+
+# Ignore dataset
+./empatheticdialogues
